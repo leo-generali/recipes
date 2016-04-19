@@ -1,0 +1,11 @@
+Ingredients:
+ - some butter
+ - some pasta
+
+Directions:
+  1. Heat up water to a boil
+  2. Place the pasta into the pot
+  3. Wait 10 minutes
+  4. Strain pasta
+  5. Add butter
+  6. Enjoy!
